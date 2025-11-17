@@ -1,0 +1,45 @@
+{
+  "appTitle": "Pokédex Teselia",
+  "auth": {
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "register": "Registrarse",
+    "username": "Usuario",
+    "password": "Contraseña",
+    "email": "Correo",
+    "alreadyHaveAccount": "¿Ya tienes cuenta?",
+    "dontHaveAccount": "¿No tienes cuenta?"
+  },
+  "pokemon": {
+    "search": "Buscar Pokémon...",
+    "loading": "Cargando...",
+    "noResults": "No se encontraron resultados"
+  },
+  "collection": {
+    "myCollection": "Mi Colección",
+    "allPokemon": "Todos los Pokémon",
+    "addToCollection": "Agregar a colección",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "addNotes": "Agregar notas..."
+  },
+  "types": {
+    "fire": "Fuego",
+    "water": "Agua",
+    "grass": "Planta",
+    "electric": "Eléctrico",
+    "psychic": "Psíquico",
+    "bug": "Bicho",
+    "steel": "Acero",
+    "fighting": "Lucha"
+  },
+  "footer": {
+    "description": "Pokédex de Unova",
+    "tech": "React + Node.js + PokéAPI"
+  },
+  "errors": {
+    "generic": "Ha ocurrido un error"
+  }
+}

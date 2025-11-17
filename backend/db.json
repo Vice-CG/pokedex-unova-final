@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": "1763348686117",
+      "username": "Vicente",
+      "email": "aniblueonline@gmail.com",
+      "password": "$2a$10$wI6p3kb3KR9jqM/Iq./5gObcwgiFeHG5Cwv7gB8cVG4zBYlIBR.K6",
+      "createdAt": "2025-11-17T03:04:46.117Z"
+    }
+  ],
+  "collections": {
+    "1763348686117": [
+      {
+        "id": "1763349935713",
+        "pokemonId": 649,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:35.713Z"
+      },
+      {
+        "id": "1763349936308",
+        "pokemonId": 648,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:36.308Z"
+      },
+      {
+        "id": "1763349937517",
+        "pokemonId": 647,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:37.517Z"
+      },
+      {
+        "id": "1763349938976",
+        "pokemonId": 646,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:38.976Z"
+      },
+      {
+        "id": "1763349939359",
+        "pokemonId": 645,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:39.359Z"
+      },
+      {
+        "id": "1763349939710",
+        "pokemonId": 644,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:39.710Z"
+      },
+      {
+        "id": "1763349940494",
+        "pokemonId": 643,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:40.494Z"
+      },
+      {
+        "id": "1763349940895",
+        "pokemonId": 642,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:40.895Z"
+      },
+      {
+        "id": "1763349941250",
+        "pokemonId": 641,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:41.250Z"
+      },
+      {
+        "id": "1763349942116",
+        "pokemonId": 640,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:42.116Z"
+      },
+      {
+        "id": "1763349942768",
+        "pokemonId": 639,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:42.768Z"
+      },
+      {
+        "id": "1763349943182",
+        "pokemonId": 638,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T03:25:43.182Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "appTitle": "Unova Pokédex",
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "pokemon": {
+    "search": "Search Pokémon...",
+    "loading": "Loading...",
+    "noResults": "No results found"
+  },
+  "collection": {
+    "myCollection": "My Collection",
+    "allPokemon": "All Pokémon",
+    "addToCollection": "Add to collection",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "addNotes": "Add notes..."
+  },
+  "types": {
+    "fire": "Fire",
+    "water": "Water",
+    "grass": "Grass",
+    "electric": "Electric",
+    "psychic": "Psychic",
+    "bug": "Bug",
+    "steel": "Steel",
+    "fighting": "Fighting"
+  },
+  "footer": {
+    "description": "Unova Pokédex",
+    "tech": "React + Node.js + PokéAPI"
+  },
+  "errors": {
+    "generic": "An error occurred"
+  }
+}
