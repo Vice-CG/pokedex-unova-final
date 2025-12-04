@@ -13,7 +13,9 @@
   "pokemon": {
     "search": "Search Pokémon...",
     "loading": "Loading...",
-    "noResults": "No results found"
+    "noResults": "No results found",
+    "viewDetails": "View Details",
+    "closeDetails": "Close"
   },
   "collection": {
     "myCollection": "My Collection",
@@ -26,20 +28,58 @@
     "addNotes": "Add notes..."
   },
   "types": {
+    "normal": "Normal",
     "fire": "Fire",
     "water": "Water",
     "grass": "Grass",
     "electric": "Electric",
+    "ice": "Ice",
+    "fighting": "Fighting",
+    "poison": "Poison",
+    "ground": "Ground",
+    "flying": "Flying",
     "psychic": "Psychic",
     "bug": "Bug",
+    "rock": "Rock",
+    "ghost": "Ghost",
+    "dragon": "Dragon",
+    "dark": "Dark",
     "steel": "Steel",
-    "fighting": "Fighting"
+    "fairy": "Fairy"
+  },
+  "details": {
+    "pokedexDescription": "Pokédex Description",
+    "baseStats": "Base Stats",
+    "total": "Total",
+    "height": "Height",
+    "weight": "Weight",
+    "captureRate": "Capture",
+    "happiness": "Happiness",
+    "abilities": "Abilities",
+    "hidden": "Hidden",
+    "evolutionChain": "Evolution Chain",
+    "level": "Level",
+    "mainMoves": "Main Moves",
+    "additionalInfo": "Additional Info",
+    "habitat": "Habitat",
+    "growthRate": "Growth rate",
+    "eggGroups": "Egg groups",
+    "loadingDetails": "Loading details..."
+  },
+  "stats": {
+    "hp": "HP",
+    "attack": "Attack",
+    "defense": "Defense",
+    "special-attack": "Sp. Attack",
+    "special-defense": "Sp. Defense",
+    "speed": "Speed"
   },
   "footer": {
     "description": "Unova Pokédex",
     "tech": "React + Node.js + PokéAPI"
   },
   "errors": {
-    "generic": "An error occurred"
+    "generic": "An error occurred",
+    "loadingDetails": "Error loading Pokémon details"
   }
 }

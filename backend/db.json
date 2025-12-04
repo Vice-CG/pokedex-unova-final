@@ -6,6 +6,13 @@
       "email": "aniblueonline@gmail.com",
       "password": "$2a$10$wI6p3kb3KR9jqM/Iq./5gObcwgiFeHG5Cwv7gB8cVG4zBYlIBR.K6",
       "createdAt": "2025-11-17T03:04:46.117Z"
+    },
+    {
+      "id": "1763411746449",
+      "username": "Benjamin",
+      "email": "benjaminpro@gmail.com",
+      "password": "$2a$10$h7.M9GHiswEarI0.aE3OO.NcAMcZ7fiyAAUV4T1Jv.jCT6YQxVHGq",
+      "createdAt": "2025-11-17T20:35:46.449Z"
     }
   ],
   "collections": {
@@ -93,6 +100,22 @@
         "notes": "",
         "caught": true,
         "caughtAt": "2025-11-17T03:25:43.182Z"
+      },
+      {
+        "id": "1763414517331",
+        "pokemonId": 494,
+        "notes": "",
+        "caught": true,
+        "caughtAt": "2025-11-17T21:21:57.331Z"
+      }
+    ],
+    "1763411746449": [
+      {
+        "id": "1763411754313",
+        "pokemonId": 519,
+        "notes": "aura",
+        "caught": true,
+        "caughtAt": "2025-11-17T20:35:54.313Z"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "appTitle": "Pokédex Teselia",
+  "appTitle": "Pokédex Unova",
   "auth": {
     "login": "Iniciar sesión",
     "logout": "Cerrar sesión",
@@ -13,7 +13,9 @@
   "pokemon": {
     "search": "Buscar Pokémon...",
     "loading": "Cargando...",
-    "noResults": "No se encontraron resultados"
+    "noResults": "No se encontraron resultados",
+    "viewDetails": "Ver Detalles",
+    "closeDetails": "Cerrar"
   },
   "collection": {
     "myCollection": "Mi Colección",
@@ -26,20 +28,58 @@
     "addNotes": "Agregar notas..."
   },
   "types": {
+    "normal": "Normal",
     "fire": "Fuego",
     "water": "Agua",
     "grass": "Planta",
     "electric": "Eléctrico",
+    "ice": "Hielo",
+    "fighting": "Lucha",
+    "poison": "Veneno",
+    "ground": "Tierra",
+    "flying": "Volador",
     "psychic": "Psíquico",
     "bug": "Bicho",
+    "rock": "Roca",
+    "ghost": "Fantasma",
+    "dragon": "Dragón",
+    "dark": "Siniestro",
     "steel": "Acero",
-    "fighting": "Lucha"
+    "fairy": "Hada"
+  },
+  "details": {
+    "pokedexDescription": "Descripción Pokédex",
+    "baseStats": "Estadísticas Base",
+    "total": "Total",
+    "height": "Altura",
+    "weight": "Peso",
+    "captureRate": "Captura",
+    "happiness": "Felicidad",
+    "abilities": "Habilidades",
+    "hidden": "Oculta",
+    "evolutionChain": "Cadena Evolutiva",
+    "level": "Nivel",
+    "mainMoves": "Movimientos Principales",
+    "additionalInfo": "Información Adicional",
+    "habitat": "Hábitat",
+    "growthRate": "Tasa de crecimiento",
+    "eggGroups": "Grupos huevo",
+    "loadingDetails": "Cargando detalles..."
+  },
+  "stats": {
+    "hp": "PS",
+    "attack": "Ataque",
+    "defense": "Defensa",
+    "special-attack": "At. Especial",
+    "special-defense": "Def. Especial",
+    "speed": "Velocidad"
   },
   "footer": {
     "description": "Pokédex de Unova",
     "tech": "React + Node.js + PokéAPI"
   },
   "errors": {
-    "generic": "Ha ocurrido un error"
+    "generic": "Ha ocurrido un error",
+    "loadingDetails": "Error al cargar los detalles del Pokémon"
   }
 }
